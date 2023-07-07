@@ -124,8 +124,9 @@ To run this project, you will need to add the following environment variables to
 
 **Authentication Required All Routes Except Login and Register**
 
-## Backend Deployed Demo[https://strange-ruby-pajamas.cyclic.app](
-https://strange-ruby-pajamas.cyclic.app)
+## Backend Deployed Demo
+[https://sleepy-pike-miniskirt.cyclic.app](
+https://sleepy-pike-miniskirt.cyclic.app)
 
 
 ## Author
